@@ -11,22 +11,19 @@ import axios from 'axios';
 
 const tags = [
     {
-        category: "Blogging"
-    },
-    {
         category: "Web Development"
     },
     {
-        category: "Digital Marketing"
+        category: "Mobile Development"
     },
     {
-        category: "Cooking"
+        category: "Cybersecurity"
     },
     {
-        category: "Photography"
+        category: "Blockchain & Web3"
     },
     {
-        category: "Sports"
+        category: "Cloud Computing"
     },
 ]
 

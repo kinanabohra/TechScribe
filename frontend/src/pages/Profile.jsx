@@ -112,7 +112,7 @@ const Profile = () => {
                         <p className=''><span className='font-semibold'>Email : </span>{user?.email}</p>
                         <div className='flex flex-col gap-2 items-start justify-start my-5'>
                             <Label className="">About Me</Label>
-                            <p className='border dark:border-gray-600 p-6  rounded-lg'>{user?.bio || "I'm a passionate web developer and content creator focused on frontend technologies. When I'm not coding, you can find me writing about tech, hiking, or experimenting with new recipes."}</p>
+                            <p className='border dark:border-gray-600 p-6  rounded-lg'>{user?.bio || "You haven't added a bio yet."}</p>
 
                         </div>
 

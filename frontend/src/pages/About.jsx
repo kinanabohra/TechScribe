@@ -11,7 +11,7 @@ const About = () => {
             About TechScribe
           </h1>
           <p className="text-lg ">
-            A place to share thoughts, inspire others, and grow together.
+            A place to share thoughts, inspire minds, and grow through tech.
           </p>
         </div>
 
@@ -24,18 +24,19 @@ const About = () => {
           />
           <div>
             <p className=" text-lg mb-4">
-              Welcome to our Blog App! We created this platform for readers,
-              writers, and thinkers to connect through stories, tutorials, and
-              creative insights. Whether you're a passionate blogger or someone
-              who loves reading, this space is built for you.
+              Welcome to TechScribe — your hub for insightful blogs, tutorials, and the latest in technology. 
+              Whether you're a developer, designer, enthusiast, or curious learner, this platform is designed for you. 
+              We built TechScribe to foster a space where readers and writers connect through knowledge. 
+              From real-world coding tips to deep dives into emerging trends, TechScribe empowers individuals to 
+              write freely, read deeply, and grow collectively.
             </p>
             <p className=" text-lg mb-4">
-              Our mission is to empower individuals to express themselves freely.
-              We offer simple tools to write, publish, and engage with others in
-              meaningful ways.
+              Our mission is simple:
+              To enable tech storytellers to share ideas, spark innovation, and build a thriving community.
+              Thank you for being a part of TechScribe — where every line written can inspire the 
             </p>
             <p className=" text-lg">
-              Thank you for being a part of our growing community.
+              Thank you for being a part of TechScribe — where every line written can inspire the next breakthrough.
             </p>
           </div>
         </div>
