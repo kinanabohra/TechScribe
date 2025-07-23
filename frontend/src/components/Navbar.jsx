@@ -132,29 +132,24 @@ const Navbar = () => {
                                             <DropdownMenuItem onClick={() => navigate('/dashboard/profile')}>
                                                 <User />
                                                 <span>Profile</span>
-                                                <DropdownMenuShortcut>⇧⌘P</DropdownMenuShortcut>
                                             </DropdownMenuItem>
                                             <DropdownMenuItem onClick={() => navigate('/dashboard/your-blog')}>
                                                 <ChartColumnBig />
                                                 <span>Your Blog</span>
-                                                <DropdownMenuShortcut>⌘B</DropdownMenuShortcut>
                                             </DropdownMenuItem>
                                             <DropdownMenuItem onClick={() => navigate('/dashboard/comments')}>
                                                 <LiaCommentSolid />
                                                 <span>Comments</span>
-                                                <DropdownMenuShortcut>⌘B</DropdownMenuShortcut>
                                             </DropdownMenuItem>
                                             <DropdownMenuItem onClick={() => navigate('/dashboard/write-blog')}>
                                                 <FaRegEdit />
                                                 <span>Write Blog</span>
-                                                <DropdownMenuShortcut>⌘B</DropdownMenuShortcut>
                                             </DropdownMenuItem>
                                         </DropdownMenuGroup>
                                         <DropdownMenuSeparator />
                                         <DropdownMenuItem onClick={logoutHandler}>
                                             <LogOut />
                                             <span>Log out</span>
-                                            <DropdownMenuShortcut>⇧⌘Q</DropdownMenuShortcut>
                                         </DropdownMenuItem>
                                     </DropdownMenuContent>
                                 </DropdownMenu>

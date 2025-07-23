@@ -25,15 +25,13 @@ const About = () => {
           <div>
             <p className=" text-lg mb-4">
               Welcome to TechScribe — your hub for insightful blogs, tutorials, and the latest in technology. 
-              Whether you're a developer, designer, enthusiast, or curious learner, this platform is designed for you. 
               We built TechScribe to foster a space where readers and writers connect through knowledge. 
-              From real-world coding tips to deep dives into emerging trends, TechScribe empowers individuals to 
+              TechScribe empowers individuals to 
               write freely, read deeply, and grow collectively.
             </p>
             <p className=" text-lg mb-4">
               Our mission is simple:
               To enable tech storytellers to share ideas, spark innovation, and build a thriving community.
-              Thank you for being a part of TechScribe — where every line written can inspire the 
             </p>
             <p className=" text-lg">
               Thank you for being a part of TechScribe — where every line written can inspire the next breakthrough.
