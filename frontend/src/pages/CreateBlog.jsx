@@ -25,7 +25,7 @@ const CreateBlog = () => {
         
         try {
             setLoading(true)
-            const res = await axios.post(`https://TechScribe.onrender.com/api/v1/blog/`, { title, category }, {
+            const res = await axios.post(`https://techscribe-uhm3.onrender.com/api/v1/blog/`, { title, category }, {
                 headers: {
                     "Content-Type": "application/json",
                 },

@@ -32,7 +32,7 @@ const Login = () => {
     console.log(input);
 
     try {
-      const response = await axios.post(`https://TechScribe.onrender.com/api/v1/user/login`, input, {
+      const response = await axios.post(`https://techscribe-uhm3.onrender.com/api/v1/user/login`, input, {
         headers: {
           "Content-Type": "application/json"
         },
